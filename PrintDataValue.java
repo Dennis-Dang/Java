@@ -1,5 +1,6 @@
 /* Author:        Dennis Dang
- * Description:   This program prompts the user to enter data and then returns its potential corresponding data types.
+ * Description:   This program prompts the user to enter data taken as a string and then returns its potential 
+                  corresponding data types.
  *
  * Note:          This program is limited to only primitive data types, excluding Strings.
 */

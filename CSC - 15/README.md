@@ -1,4 +1,4 @@
-<p>This is a place where i publish some of my coursework from CSC - 15, a class I took in Californa State University of Sacramento Taught by Professor Gita Faroughi. CSC - 15 studies various introductory programming methodology in the Java language.</p>
+<p>This is a place where i publish some of my coursework from CSC - 15, a class I took in Californa State University of Sacramento taught by Professor Gita Faroughi. CSC - 15 studies various introductory programming methodology in the Java language.</p>
 <p>Building Java Programs: A Back To Basics Approach by Stuart Reges & Marty Stepp</p>
 <br></br>
 <p>Concepts Taught By Chapter:</p>

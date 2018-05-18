@@ -5,7 +5,7 @@
                 This was created for a CSC15 course at CSU Sacramento. 
 */
 import java.util.Scanner;
-public class PrintCalenderShell
+public class PrintCalendarShell
 {
    public static void main(String[] args)
    {
@@ -28,7 +28,7 @@ public class PrintCalenderShell
             year = kb.nextInt(); 
          } while (year < 1800);
          
-         System.out.println("Select one of the followiing options: ");
+         System.out.println("Select one of the following options: ");
          System.out.println("To get the month calendar press m or M ");
          System.out.println("To get the calendar for the year enter y or Y ");
          System.out.print("Enter your choice: ");

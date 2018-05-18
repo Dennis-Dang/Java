@@ -6,4 +6,4 @@
 ![](/CSC%2015/Project1/PrintCalendarShellDemo.gif)
 <br></br>
 <b>Credits Due:</b>
-<p>This project was assigned by my professor Gita Faroughi which had given me specifications on what the game should behave like.</p>
+<p>This project was assigned by my professor Gita Faroughi which had given me specifications on what the program should behave like.</p>
